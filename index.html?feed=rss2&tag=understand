@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>設計思考1-Understand &#8211; Acadeck</title>
+	<atom:link href="//?feed=rss2&#038;tag=understand" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>把專業知識變成友善閱讀的卡片</description>
+	<lastBuildDate>Sun, 29 Aug 2021 17:00:29 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.25</generator>
+	<item>
+		<title>設計思考圖鑑</title>
+		<link>//?p=558</link>
+		<pubDate>Sun, 22 Oct 2017 16:02:36 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考1-Understand]]></category>
+		<category><![CDATA[設計思考2-Ideate]]></category>
+		<category><![CDATA[設計思考3-Prototype]]></category>
+		<category><![CDATA[設計思考4-Test]]></category>
+
+		<guid isPermaLink="false">//?p=558</guid>
+		<description><![CDATA[<p>Design Thinking&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=558">設計思考圖鑑</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>訪談</title>
+		<link>//?p=553</link>
+		<pubDate>Sun, 22 Oct 2017 15:32:30 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考1-Understand]]></category>
+
+		<guid isPermaLink="false">//?p=553</guid>
+		<description><![CDATA[<p>&#160; Intervie&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=553">訪談</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>焦點團體</title>
+		<link>//?p=551</link>
+		<pubDate>Sun, 22 Oct 2017 15:31:28 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考1-Understand]]></category>
+
+		<guid isPermaLink="false">//?p=551</guid>
+		<description><![CDATA[<p>&#160; Focus Gr&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=551">焦點團體</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>問卷調查</title>
+		<link>//?p=549</link>
+		<pubDate>Sun, 22 Oct 2017 15:30:16 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考1-Understand]]></category>
+
+		<guid isPermaLink="false">//?p=549</guid>
+		<description><![CDATA[<p>摘要 （Abstract） 利&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=549">問卷調查</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>作業分析</title>
+		<link>//?p=547</link>
+		<pubDate>Sun, 22 Oct 2017 15:27:43 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考1-Understand]]></category>
+
+		<guid isPermaLink="false">//?p=547</guid>
+		<description><![CDATA[<p>Task Analysis 作&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=547">作業分析</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>角色扮演</title>
+		<link>//?p=545</link>
+		<pubDate>Sun, 22 Oct 2017 15:26:33 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考1-Understand]]></category>
+
+		<guid isPermaLink="false">//?p=545</guid>
+		<description><![CDATA[<p>&#160; Role Pla&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=545">角色扮演</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>活動理論</title>
+		<link>//?p=543</link>
+		<pubDate>Sun, 22 Oct 2017 15:25:03 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考1-Understand]]></category>
+
+		<guid isPermaLink="false">//?p=543</guid>
+		<description><![CDATA[<p>&#160; Activity&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=543">活動理論</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>快速民族誌</title>
+		<link>//?p=541</link>
+		<pubDate>Sun, 22 Oct 2017 15:23:18 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考1-Understand]]></category>
+
+		<guid isPermaLink="false">//?p=541</guid>
+		<description><![CDATA[<p>&#160; Rapid Et&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=541">快速民族誌</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>脈絡訪查</title>
+		<link>//?p=539</link>
+		<pubDate>Sun, 22 Oct 2017 15:22:21 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考1-Understand]]></category>
+
+		<guid isPermaLink="false">//?p=539</guid>
+		<description><![CDATA[<p>&#160; Contextu&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=539">脈絡訪查</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>日誌分析</title>
+		<link>//?p=537</link>
+		<pubDate>Sun, 22 Oct 2017 15:21:24 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考1-Understand]]></category>
+
+		<guid isPermaLink="false">//?p=537</guid>
+		<description><![CDATA[<p>&#160; Diary An&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=537">日誌分析</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>設計思考4-Test &#8211; Acadeck</title>
+	<atom:link href="//?feed=rss2&#038;tag=test" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>把專業知識變成友善閱讀的卡片</description>
+	<lastBuildDate>Sun, 29 Aug 2021 17:00:29 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.25</generator>
+	<item>
+		<title>設計思考圖鑑</title>
+		<link>//?p=558</link>
+		<pubDate>Sun, 22 Oct 2017 16:02:36 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考1-Understand]]></category>
+		<category><![CDATA[設計思考2-Ideate]]></category>
+		<category><![CDATA[設計思考3-Prototype]]></category>
+		<category><![CDATA[設計思考4-Test]]></category>
+
+		<guid isPermaLink="false">//?p=558</guid>
+		<description><![CDATA[<p>Design Thinking&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=558">設計思考圖鑑</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>設計原則</title>
+		<link>//?p=458</link>
+		<pubDate>Sun, 22 Oct 2017 01:11:19 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考3-Prototype]]></category>
+		<category><![CDATA[設計思考4-Test]]></category>
+
+		<guid isPermaLink="false">//?p=458</guid>
+		<description><![CDATA[<p>&#160; Design G&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=458">設計原則</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>實驗設計</title>
+		<link>//?p=444</link>
+		<pubDate>Sun, 22 Oct 2017 00:56:31 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考4-Test]]></category>
+
+		<guid isPermaLink="false">//?p=444</guid>
+		<description><![CDATA[<p>Experiments &#038;nb&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=444">實驗設計</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>眼動追蹤</title>
+		<link>//?p=442</link>
+		<pubDate>Sun, 22 Oct 2017 00:55:47 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考4-Test]]></category>
+
+		<guid isPermaLink="false">//?p=442</guid>
+		<description><![CDATA[<p>&#160; Eye trac&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=442">眼動追蹤</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>放聲思考法</title>
+		<link>//?p=440</link>
+		<pubDate>Sun, 22 Oct 2017 00:54:20 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考4-Test]]></category>
+
+		<guid isPermaLink="false">//?p=440</guid>
+		<description><![CDATA[<p>Think Aloud 放聲思&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=440">放聲思考法</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>量表</title>
+		<link>//?p=438</link>
+		<pubDate>Sun, 22 Oct 2017 00:52:48 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考4-Test]]></category>
+
+		<guid isPermaLink="false">//?p=438</guid>
+		<description><![CDATA[<p>&#160; Rating S&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=438">量表</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>A/B測試</title>
+		<link>//?p=436</link>
+		<pubDate>Sun, 22 Oct 2017 00:51:52 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考4-Test]]></category>
+
+		<guid isPermaLink="false">//?p=436</guid>
+		<description><![CDATA[<p>&#160; A/B Test&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=436">A/B測試</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>認知演練法</title>
+		<link>//?p=434</link>
+		<pubDate>Sun, 22 Oct 2017 00:50:49 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考4-Test]]></category>
+
+		<guid isPermaLink="false">//?p=434</guid>
+		<description><![CDATA[<p>&#160; Cognitiv&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=434">認知演練法</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>競爭力測試</title>
+		<link>//?p=432</link>
+		<pubDate>Sun, 22 Oct 2017 00:49:23 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考4-Test]]></category>
+
+		<guid isPermaLink="false">//?p=432</guid>
+		<description><![CDATA[<p>&#160; Competit&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=432">競爭力測試</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+		<item>
+		<title>群眾測試</title>
+		<link>//?p=430</link>
+		<pubDate>Sun, 22 Oct 2017 00:48:17 +0000</pubDate>
+		<dc:creator><![CDATA[donwen]]></dc:creator>
+				<category><![CDATA[設計思考(Design Thinking)]]></category>
+		<category><![CDATA[設計思考4-Test]]></category>
+
+		<guid isPermaLink="false">//?p=430</guid>
+		<description><![CDATA[<p>&#160; Crowd Te&#8230;</p>
+<p>這篇文章 <a rel="nofollow" href="//?p=430">群眾測試</a> 最早出現於 <a rel="nofollow" href="/">Acadeck</a>。</p>
+]]></description>
+		</item>
+	</channel>
+</rss>
