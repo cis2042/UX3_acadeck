@@ -1,0 +1,4 @@
+## 2024-05-18 - Path Traversal in Path Resolution Script
+**Vulnerability:** The `resolve_local_path` function in `scripts/validate_pages.py` resolved candidate paths from HTML references without verifying if the resulting path stayed within the intended root directory, allowing potential path traversal vulnerabilities if malicious references were present (e.g., `../../../etc/passwd`).
+**Learning:** Even utility scripts that only parse file contents and don't directly serve web requests can contain security vulnerabilities. Reusing such path resolution logic in an environment that handles untrusted input without validation would expose the system to arbitrary file reads.
+**Prevention:** Always normalize paths and use boundary checking like `os.path.normpath` followed by verifying `os.path.commonpath([ROOT, candidate]) == ROOT` to ensure paths do not escape the designated base directory.

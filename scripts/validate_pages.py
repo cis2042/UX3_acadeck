@@ -29,8 +29,18 @@ def resolve_local_path(page_path: str, url: str):
         candidate = os.path.join(ROOT, url_no_fragment.lstrip('/'))
     else:
         candidate = os.path.join(os.path.dirname(page_path), url_no_fragment)
+
     decoded = unquote(candidate)
-    return candidate, decoded
+
+    # Path traversal protection
+    candidate_norm = os.path.normpath(candidate)
+    decoded_norm = os.path.normpath(decoded)
+
+    if os.path.commonpath([ROOT, candidate_norm]) != ROOT or \
+       os.path.commonpath([ROOT, decoded_norm]) != ROOT:
+        return None, None
+
+    return candidate_norm, decoded_norm
 
 ASSET_EXTS = (
     '.js', '.css', '.png', '.jpg', '.jpeg', '.gif', '.svg', '.ico',
@@ -88,6 +98,9 @@ def main():
                 continue
             # Local path
             candidate, decoded = resolve_local_path(page, url)
+            if candidate is None:
+                problems.append(f'path_traversal_attempt: {url}')
+                continue
             if not (os.path.exists(candidate) or os.path.exists(decoded)):
                 missing_locals += 1
                 problems.append(f'missing_local_asset: {url}')
