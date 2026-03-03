@@ -1,0 +1,4 @@
+## 2024-05-01 - Legacy WordPress API Endpoints in Static Export
+**Vulnerability:** The staticized WordPress website repository contained legacy artifacts such as `xmlrpc.php?rsd` and multiple `index.php?rest_route=*` endpoints. While non-functional in a purely static context (if PHP is not executed), they create security noise, increase the attack surface if the environment ever executes PHP, and signal a history of potentially exploitable WordPress installations.
+**Learning:** Tools that export WordPress sites to static files often leave behind API endpoints, oEmbed routes, and XML-RPC stubs. These should be explicitly pruned from the exported artifact to maintain a minimal, secure footprint.
+**Prevention:** Implement a build step or cleanup script that explicitly removes `*.php` and known legacy routing files (e.g., `xmlrpc.php`, `wp-login.php`, `index.php?*`) before deploying or committing a static site export.
