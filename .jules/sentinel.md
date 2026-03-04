@@ -1,0 +1,4 @@
+## 2024-03-04 - Fix Path Traversal Vulnerability in local path resolution
+ **Vulnerability:** The function `resolve_local_path` in `scripts/validate_pages.py` doesn't sanitize the resolved path, meaning `url`s with path traversal characters `../` could break out of the ROOT directory, allowing the reading of files outside the project when validated by the script.
+ **Learning:** Using `os.path.join` with unsanitized paths containing `../` evaluates paths outside the boundary directory. This allows a path traversal if the resulting file path is opened or its properties checked elsewhere.
+ **Prevention:** Use `os.path.normpath` followed by checking if the resolved path starts with `ROOT` using `os.path.commonpath([ROOT, path]) == ROOT`. This check must be performed on both the raw path and the URL-decoded path (`urllib.parse.unquote`) to prevent bypasses using encoded sequences (e.g., `%2e%2e%2f`).
