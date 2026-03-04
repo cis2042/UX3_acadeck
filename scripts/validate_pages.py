@@ -29,7 +29,14 @@ def resolve_local_path(page_path: str, url: str):
         candidate = os.path.join(ROOT, url_no_fragment.lstrip('/'))
     else:
         candidate = os.path.join(os.path.dirname(page_path), url_no_fragment)
-    decoded = unquote(candidate)
+
+    candidate = os.path.normpath(candidate)
+    decoded = os.path.normpath(unquote(candidate))
+
+    # Prevent path traversal
+    if os.path.commonpath([ROOT, candidate]) != ROOT or os.path.commonpath([ROOT, decoded]) != ROOT:
+        return "", ""
+
     return candidate, decoded
 
 ASSET_EXTS = (
