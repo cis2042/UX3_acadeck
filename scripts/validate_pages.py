@@ -29,7 +29,16 @@ def resolve_local_path(page_path: str, url: str):
         candidate = os.path.join(ROOT, url_no_fragment.lstrip('/'))
     else:
         candidate = os.path.join(os.path.dirname(page_path), url_no_fragment)
-    decoded = unquote(candidate)
+
+    # Secure path resolution to prevent directory traversal
+    candidate = os.path.abspath(candidate)
+    decoded = os.path.abspath(unquote(candidate))
+
+    # ROOT is already absolute via os.path.abspath
+    if not (os.path.commonpath([ROOT, candidate]) == ROOT and os.path.commonpath([ROOT, decoded]) == ROOT):
+        # Prevent directory traversal bypasses by returning a path that will fail existence checks
+        return "/dev/null", "/dev/null"
+
     return candidate, decoded
 
 ASSET_EXTS = (
